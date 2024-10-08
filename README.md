@@ -1,9 +1,9 @@
-# PCA Introduction and demo
+# PCA Einführung und Demo
 
-A short introduction to the underlying principles of PCA, the math behind it, and some code examples.
+Eine kurze Einführung in die zugrundeliegenden Prinzipien der PCA, die Mathematik dahinter und einige Codebeispiele.
 
-- Linear transformations
-- Practical PCA considerations: normalization, standardization, eigen decomposition
-- Basic implementation of PCA
-- Implementation for high-dimensions
-- Comparison with other methods: Denoising Variational Autoencoder (DVAE)
+- Lineare Transformationen
+- Praktische PCA-Aspekten: Normalisierung, Standardisierung, Eigenwertzerlegung
+- Grundlegende Implementierung der PCA
+- Anwendung Beispiele
+- Vergleich mit anderen Methoden: Denoising Variational Autoencoder (DVAE)
